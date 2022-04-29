@@ -1,6 +1,5 @@
-# Start Spring boot project with kotlin
-If you configure the development space with vscode's devcontainer, you minimize the difference in environment between development and deployment.
-And it makes it easy to share your environment with your team mates. Therfore, I have organized the code so that you can start a web project with a combination of spring boot, kotlin, and gradle on vscode's devcontainer.
+# TODO List
+TODO List example with Spring Boot, Kotlin and React.
 
 ## Prerequisites
 - Docker 20.10.12
@@ -20,15 +19,6 @@ And it makes it easy to share your environment with your team mates. Therfore, I
 // clone source code
 > git clone https://github.com/deagwon97/start-kotlin-spring-boot.git
 ```
-
-### 2. download spring boot codes from https://start.spring.io/
-1. Choose Like this and download zip file
-    - Gradle
-    - Kotlin
-    - Spring Boot 2.6.7
-    - Packaging Jar
-    - Java 11
-2. Unzip codes and move to `~/workdir/src/src`
 
 ### 2. Run Devcontainer
 1. Open command palette
